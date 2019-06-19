@@ -1,0 +1,4 @@
+Although = Meskipun
+Slices   = Potongan
+Immediately = Segera
+Contained = Terkandung
